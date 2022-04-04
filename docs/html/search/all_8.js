@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['kmtogev_0',['kmTOGeV',['../namespacehalo.html#a0989cc63a4a44f47514ba87f594b3970',1,'halo.kmTOGeV()'],['../namespacemodel__fit.html#acbd073cb70941d7527567edfc7d4450b',1,'model_fit.kmTOGeV()'],['../namespacealp__funcs.html#a94ad148a325039fff8f5dd21fe9d63a8',1,'alp_funcs.kmTOGeV()'],['../namespacealp__params.html#a956847dd83a25daf1e74d1f30d0d5b9e',1,'alp_params.kmTOGeV()'],['../namespacecdm__funcs.html#ac256f8ffee6bc39c3b76275786fc64b2',1,'cdm_funcs.kmTOGeV()'],['../namespacecdm__params.html#a54ec52937a1bba4c62b2f8102a7e826f',1,'cdm_params.kmTOGeV()']]],
+  ['kpctogev_1',['kpcTOGeV',['../namespacehalo.html#aef8b4500eed7310e8e633ef65fb334b7',1,'halo.kpcTOGeV()'],['../namespacemodel__fit.html#a82e9c40cf9c147db71084fc2230e11c4',1,'model_fit.kpcTOGeV()'],['../namespacealp__funcs.html#a580ede053c5217e3404e5180c222ce56',1,'alp_funcs.kpcTOGeV()'],['../namespacealp__params.html#aa77e908bfa032e5b3bd046f9152626d9',1,'alp_params.kpcTOGeV()'],['../namespacecdm__funcs.html#ada73e14170b2a92c7d49a7d446b20972',1,'cdm_funcs.kpcTOGeV()'],['../namespacecdm__params.html#ad70e9c65317d3239e447d70ba6055550',1,'cdm_params.kpcTOGeV()']]]
+];
