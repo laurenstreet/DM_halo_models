@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: misc
+authors:
+  - family-names: Street
+    given-names: Lauren
+    email: streetlg@mail.uc.edu
+    orcid: 'https://orcid.org/0000-0002-8949-7636'
+  - family-names: Gnedin
+    given-names: Nickolay Y.
+  - family-names: Wijewardhana
+    given-names: L. C. R.
+title: "DM halo models"
+repository-code: https://github.com/laurenstreet/DM_halo_models

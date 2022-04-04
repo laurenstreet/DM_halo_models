@@ -1,0 +1,12 @@
+axes.titlesize : 30
+axes.titlecolor : black
+axes.titleweight : normal
+
+axes.labelsize : 26
+axes.labelcolor : black
+axes.labelweight : normal
+
+xtick.labelsize : 22
+ytick.labelsize : 22
+
+legend.fontsize : 22
