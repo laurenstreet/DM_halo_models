@@ -7,7 +7,7 @@ See *insert publication here* for more information.
 
 This repository was created to test several galactic dark matter (DM) models against the Spitzer Photometry and Accurate Rotation Curves (SPARC) catalog data (see http://astroweb.case.edu/SPARC/).  It can be used to obtain fit results for each of the DM models analyzed, as well as calculate various properties such as the galactic DM mass, etc.  For more information pertaining to the math and physics behind the calculations, see *insert publication here*.
 
-For more detailed documentation see : *insert documentation link* or DM_halo_models_docs.pdf
+For more detailed documentation see : https://laurenstreet.github.io/DM_halo_models or DM_halo_models_docs.pdf
 
 ## Requirements
 
