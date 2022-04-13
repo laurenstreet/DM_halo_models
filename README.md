@@ -1,13 +1,11 @@
 # DM_halo_models
 Testing DM models with SPARC
 
-See https://arxiv.org/abs/2204.01871 for more information.
-
 ## Overview
 
 This repository was created to test several galactic dark matter (DM) models against the Spitzer Photometry and Accurate Rotation Curves (SPARC) catalog data (see http://astroweb.case.edu/SPARC/).  It can be used to obtain fit results for each of the DM models analyzed, as well as calculate various properties such as the galactic DM mass, etc.  For more information pertaining to the math and physics behind the calculations, see https://arxiv.org/abs/2204.01871.
 
-For more detailed documentation see : https://laurenstreet.github.io/DM_halo_models or DM_halo_models_docs.pdf
+For more detailed documentation see : https://laurenstreet.github.io/DM_halo_models or docs/DM_halo_models_docs.pdf.
 
 ## Requirements
 
@@ -52,21 +50,21 @@ The SCGSR program is administered by the Oak Ridge Institute for Science and Edu
 ORISE is managed by ORAU under contract number DE-SC0014664. All opinions expressed in this paper are the
 authors’ and do not necessarily reflect the policies and views of DOE, ORAU, or ORISE. 
 
-Thanks to Joshua Eby and Peter Suranyi for valuable discussions and comments from proofreading of https://arxiv.org/abs/2204.01871.
-
-Thanks to Mike Sokoloff and Daniel Vieira for setting up computational resources to be used in the next installment of this study.
+Thanks to Joshua Eby and Peter Suranyi for valuable discussions and comments.  Thanks to Mike Sokoloff and Daniel Vieira for setting up computational resources to be used in the next installment of this study.
 
 ## Citations
 
 Below is the bibtex formatted citation for https://arxiv.org/abs/2204.01871,
 
-@misc{street2022testing,
-      title={Testing multiflavored ULDM models with SPARC}, 
-      author={Lauren Street and Nickolay Y. Gnedin and L. C. R. Wijewardhana},
-      year={2022},
-      eprint={2204.01871},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO}
+@article{Street:2022nib,
+    author = "Street, Lauren and Gnedin, Nickolay Y. and Wijewardhana, L. C. R.",
+    title = "{Testing multiflavored ULDM models with SPARC}",
+    eprint = "2204.01871",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    reportNumber = "FERMILAB-PUB-22-268-T",
+    month = "4",
+    year = "2022"
 }
 
 Below is the bibtex formatted citation for this repository,
