@@ -58,12 +58,16 @@ Below is the bibtex formatted citation for https://arxiv.org/abs/2204.01871,
 
 @article{Street:2022nib,
     author = "Street, Lauren and Gnedin, Nickolay Y. and Wijewardhana, L. C. R.",
-    title = "{Testing multiflavored ULDM models with SPARC}",
+    title = "{Testing multiflavored ultralight dark matter models with SPARC}",
     eprint = "2204.01871",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.CO",
     reportNumber = "FERMILAB-PUB-22-268-T",
-    month = "4",
+    doi = "10.1103/PhysRevD.106.043007",
+    journal = "Phys. Rev. D",
+    volume = "106",
+    number = "4",
+    pages = "043007",
     year = "2022"
 }
 
